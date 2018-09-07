@@ -1,0 +1,1 @@
+./Debug/Automate-Pro.cpp.o ./Debug/wxcrafter_bitmaps.cpp.o
